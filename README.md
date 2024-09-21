@@ -13,3 +13,6 @@ This course introduces the foundational concepts underlying modern computers and
 
 [lab3](https://github.com/Iane14093051/Computer_Organization/tree/main/Lab3) :
 - Implement at least three cache replacement policies (FIFO, LRU, LFU) in the cache simulation module of Spike.
+
+## **note** 
+You can find detailed information in the PDF files for each lab.
